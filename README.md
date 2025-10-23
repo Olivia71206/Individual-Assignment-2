@@ -1,3 +1,6 @@
+**GitHub Repository Link:**  
+https://github.com/Olivia71206/Individual-Assignment-2  
+
 # Assignment 2 – Penguins Analysis
 
 Dataset: `penguins.csv`  
@@ -12,10 +15,6 @@ Reproduce:
 Branch & PR:
 - Created `testbranch-OH`, added `tabulate sex`, and merged via pull request.
 
-**GitHub Repository Link:**  
-https://github.com/Olivia71206/Individual-Assignment-2  
-
----
 **Part 3 – Collaboration**  
 A collaborator has been invited to the repository for this step.  
 It is currently uncertain whether the collaborator’s pull request or comment was successfully completed.  
